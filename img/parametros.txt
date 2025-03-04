@@ -1,0 +1,9 @@
+width : 1024
+height : 1024
+iterations : 10
+threshold : 2
+min : -2-2i
+max : 2+2i
+polynomial : (1+0i)x^2+(-1+0i)
+nombre : fractal.png
+color : (255,100,50)
